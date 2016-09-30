@@ -1,3 +1,2 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/employees-app-jonathaneyster
-
+web: java -jar target/employees-app-1.0-SNAPSHOT-jar-with-dependencies.jar
 
